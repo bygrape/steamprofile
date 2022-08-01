@@ -1,0 +1,6 @@
+https://steamuserimages-a.akamaihd.net/ugc/1661228286900931152/2F7A2F07449D6F5AEDBD47425436D063C6C50559/?imw=128&imh=128&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true
+
+https://steamcommunity.com/sharedfiles/edititem/767/3/
+
+Screenshot:
+$J('#image_width').val(1000).attr('id',''),$J('#image_height').val(1).attr('id',''),$J('[name=file_type]').val(5);
